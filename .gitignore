@@ -42,3 +42,9 @@ dist
 
 convex-local*
 convex_local*
+
+# housekeeping
+*.log
+*.pid
+*.bak
+__pycache__/
